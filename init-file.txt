@@ -1,2 +1,7 @@
 "Init file" 
+<<<<<<< HEAD
 "update od c3" 
+=======
+"update" 
+>>>>>>> a59bb12332540f222670b54847ddea4afdc2e514
+"update" 
